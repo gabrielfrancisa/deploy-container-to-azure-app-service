@@ -9,22 +9,22 @@ Search for WebApp and create a new app>
 
  FILL IN BASIC (configurations)
  
- subscription: Retain the default name created by the webApp
- resource group: select the existing resource group
- Name: Name according to desired (Turn off the slide bar)
- publish: Select CONTAINER
- O.S(operating system: Linux 
- Region: EastUs (choose according to nearest location)
- Linux Plan: Asp-rg-webApp------
- Pricing: free F1 plan (advisable for test or practice)
+ 1. subscription: Retain the default name created by the webApp
+ 2. resource group: select the existing resource group
+ 3. Name: Name according to desired (Turn off the slide bar)
+ 4. publish: Select CONTAINER
+ 5. O.S(operating system: Linux 
+ 6. Region: EastUs (choose according to nearest location)
+ 7. Linux Plan: Asp-rg-webApp------
+ 8. Pricing: free F1 plan (advisable for test or practice)
 
  NAVIGATE to the CONTAINER tab at the top after Basic to input the following:
  
- Side cart support: OFF
- Image source: Select other container register
- Access type: Retain default as public
- Register URL: name url: http://mcr.microsoft.com/K8se
- Image & tag: quickstart: latest
+ 1. Side cart support: OFF
+ 2. Image source: Select other container register
+ 3. Access type: Retain default as public
+ 4. Register URL: name url: http://mcr.microsoft.com/K8se
+ 5. Image & tag: quickstart: latest
 
 
 Review
